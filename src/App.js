@@ -21,7 +21,7 @@ export default function EduWayReactApplication() {
               <Container>
                 <Menu.Item as='a' header>
                   <Image size='mini' src='/logo.png' style={{ marginRight: '1.5em' }} />
-                  <Link to="/" >EduWay</Link>
+                  <Link to="/" >EduWay</Link> 
                 </Menu.Item>
                 {/* <Menu.Item as='a'>Home</Menu.Item> */}
 
